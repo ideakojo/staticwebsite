@@ -1,0 +1,2 @@
+# staticwebsite
+CREATED A STATIC WEBSITE USING AWS S3
